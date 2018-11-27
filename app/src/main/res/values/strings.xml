@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Historical Sites</string>
+
+    <string-array name="name">
+        <item>Stonehenge</item>
+        <item>Machu Picchu</item>
+        <item>Piramida Giza</item>
+        <item>Pulau Paskah</item>
+        <item>Petra</item>
+    </string-array>
+
+    <string-array name="detail">
+        <item>Stonehenge adalah monumen bersejarah yang terletak di Wiltshire, Inggris. Pada mulanya bentuk bebatuan ini diatur melingkar lalu rubuh sebagian seiring waktu. Arkeolog percaya bahwa bangunan kuno ini didirikan sekitar 2000 SM lewat beberapa fase. Situs ini ditambahkan ke daftar situs warisan dunia UNESCO pada tahun 1986.
+
+Ada banyak argumen dan perdebatan dari para ahli sejarah mengenai situs purba ini. Para peneliti punya beberapa prediksi tentang pola situs dan penggunaannya di masa lampau. Ada pula yang berpendapat bahwa terdapat semacam kekuatan supernatural yang terlibat dalam konstruksi. Sebagian lagi percaya bahwa situs itu dulunya digunakan sebagai tanah kremasi. </item>
+        <item>Machu Picchu terletak di puncak gunung yang berada di atas lembah Urubamba di Peru, tepatnya 70 km barat laut Cusco. Nama unik situs ini adalah istilah dari bahasa Spanyol yang berarti 'gunung tua'. Lokasi reruntuhannya terletak pada ketinggian 2350 meter di atas permukaan laut. </item>
+        <item>Piramida Agung Giza yang legendaris dibangun sekitar tahun 2560 SM. Piramida ini menjadi yang terbesar dan tertua dari ketiga piramida yang terletak di tanah Mesir. Sebutan lain dari piramida Giza juga dikenal sebagai Piramida Khufu atau Piramida Cheops.
+
+Pembangunan Piramida Giza di masa lampau menyimpan misteri besar, apalagi dengan kekokohannya yang telah bertahan lebih dari 4500 tahun. Selama bertahun-tahun, banyak teori menarik yang menjelaskan misteri konstruksi Piramida yang menakjubkan ini.</item>
+        <item>Pulau ini terkenal karena memiliki 887 patung menyerupai manusia yang monumental. Moai, itulah nama patung-patung raksasa yang diciptakan oleh orang-orang Rapa Nui zaman dulu.
+
+Pulau Paskah atau Easter Island terletak di Samudera Pasifik sebelah barat Chili, di titik paling tenggara Segitiga Polinesia. Moai diciptakan dari sebagian besar abu vulkanik yang dicampur basal. Pada tahun 1995, UNESCO memasukkan pulau ini dalam daftar Situs Warisan Dunia.</item>
+        <item>Petra, awalnya dikenal sebagai Raqmu atau kota Rose yang termasuk wilayah kuno di Yordania. Kota yang didirikan sekitar 312 SM ini juga menjabat sebagai ibu kota Arab Nabeteans. Julukan kota Rose melekat karena warna batu yang digunakan dalam struktur bangunan Petra agak kemerah-merahan. </item>
+    </string-array>
+</resources>
